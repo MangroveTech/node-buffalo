@@ -5,7 +5,7 @@ engine for [Mongolian DeadBeef][4].
 
 The motivation is to make a fast and simple parser and serializer for BSON.
 
-[![Build Status](https://secure.travis-ci.org/marcello3d/node-buffalo.png)](http://travis-ci.org/marcello3d/node-buffalo)
+[![Build Status](https://secure.travis-ci.org/marcello3d/node-buffalo.png)](http://travis-ci.org/MangroveTech/node-buffalo)
 
 Installation
 ------------
@@ -13,7 +13,7 @@ Installation
 interest of a solid API. Use at your own risk**
 
 You can either clone the source and install with `npm link`, or install the latest published version from npm with
-`npm install buffalo`.
+`npm install https://github.com/MangroveTech/node-buffalo/archive/v0.2.0.tar.gz`.
 
 Running Tests
 -------------
